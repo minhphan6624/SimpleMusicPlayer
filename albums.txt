@@ -1,0 +1,134 @@
+9
+Illuminate
+Shawn Mendes
+2016
+images/Artwork/illuminate.png
+5
+Hold On
+musics/shawnmendes/Hold_on.mp3
+Mercy
+musics/shawnmendes/mercy.mp3
+Treat You Better
+musics/shawnmendes/treat_you_better.mp3
+Bad Reputation
+musics/shawnmendes/bad_reputation.mp3
+Honest
+musics/shawnmendes/honest.mp3
+Nine Track Mind
+Charlie Puth
+2016
+images/artwork/nine_track_mind.png
+5
+One Call Away
+musics/charlieputh/one_call_away.mp3
+We Don't Talk Anymore
+musics/charlieputh/we_dont_talk_anymore.mp3
+Dangerously
+musics/charlieputh/dangerously.mp3
+Losing My Mind
+musics/charlieputh/losing_my_mind.mp3
+See You Again
+musics/charlieputh/see_you_again.mp3
+Scorpion
+Drake
+2018
+images/artwork/scorpion.jpg
+5
+God's Plan
+musics/drake/gods_plan.mp3
+In My Feelings
+musics/drake/in_my_feelings.mp3
+Peak
+musics/drake/peak.mp3
+Finesse
+musics/drake/finesse.mp3
+Survival
+musics/drake/survival.mp3
+Purpose
+Justin Bieber
+2015
+images/artwork/purpose.png
+5
+What do you mean?
+Musics/JustinBieber/what_do_you_mean.mp3
+Sorry
+Musics/JustinBieber/sorry.mp3
+Company
+Musics/justinbieber/company.mp3
+Love Yourself
+musics/justinbieber/love_yourself.mp3
+No Sense
+musics/justinbieber/no_sense.mp3
+Futures
+PREP
+2016
+images/artwork/futures.jpeg
+4
+Cheapest Flight
+musics/PREP/cheapest_flight.mp3
+Line By Line
+musics/PREP/line_by_line.mp3
+Who's Got You Singing Again
+musics/PREP/whos_got_you_singing_again.mp3
+15th Floor
+musics/PREP/15th_Floor.mp3
+Different Worlds
+ALan Walker
+2018
+images/artwork/different_world.png
+5
+All Falls Down
+musics/AlanWalker/all_falls_down.mp3
+Alone
+musics/AlanWalker/alone.mp3
+Faded
+musics/AlanWalker/faded.mp3
+Lily
+musics/AlanWalker/lily.mp3
+Sing Me To Sleep
+musics/AlanWalker/sing_me_to_sleep.mp3
+Red
+Taylor Swift
+2012
+images/artwork/red.png
+5
+22
+musics/TaylorSwift/22.mp3
+All Too Well
+musics/TaylorSwift/all_too_well.mp3
+Better Man
+musics/TaylorSwift/better_man.mp3
+Ronan
+musics/TaylorSwift/Ronan.mp3
+State Of Grace
+musics/TaylorSwift/state_of_grace.mp3
+Midnight Memories
+One Direction
+2013
+images/artwork/midnight_memories.png
+5
+Best Song Ever
+musics/OneDirection/best_song_ever.mp3
+Little White Lies
+musics/OneDirection/little_white_lies.mp3
+Midnight Memories
+musics/OneDirection/midnight_memories.mp3
+Story Of My Life
+musics/OneDirection/story_of_my_life.mp3
+You & I
+musics/OneDirection/you_and_i.mp3
+24K Magic
+Bruno Mars
+2016
+images/artwork/24k_magic.png
+5
+24K Magic
+musics/BrunoMars/24k_magic.mp3
+Chunky
+musics/BrunoMars/Chunky.mp3
+Finesse
+musics/BrunoMars/Finesse.mp3
+That's What I Like
+musics/BrunoMars/thats_what_i_like.mp3
+Versace On The Floor
+musics/BrunoMars/versace_on_the_floor.mp3
