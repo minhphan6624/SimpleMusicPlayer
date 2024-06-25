@@ -16,13 +16,10 @@ To run the program, you need to have Ruby and Gosu installed on your machine. If
   - Download the latest version of the Ruby+Devkit installer (for example, Ruby+Devkit 3.x.x-x (x64)).
   - Run the installer to install Ruby (Ensure "Add Ruby executables to your PATH" is checked)
 #### 2. Install MSYS2 and Development Toolchain:
-  - Download the MSYS2 installer from the MSYS2 website https://www.msys2.org/
-  - Run the installer and follow the prompts to install MSYS2 (default directory is C:\msys64).
-  - Open the MSYS2 shell by running msys2.exe from the Start menu or the installation directory.
-  - Update the package database and core system packages using `pacman -Syu`
-  - Close and reopen the MSYS2 shell if prompted.
-  - Run the update command again to ensure all packages are up to date `pacman -Su`
-  - Run the following command to install necessary dependencies
-    `pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-pkg-config mingw-w64-x86_64-sdl2 mingw-w64-x86_64-sdl2_image mingw-w64-x86_64-sdl2_mixer mingw-w64-x86_64-sdl2_ttf`
-#### 3. Install Gosu gem
-  - run `gem install gosu` to install Gosu
+  The RubyInstaller should prompt you to install MSYS2 and its development toolchain. If not, you can manually install it by running `ridk install` in Command Prompt and following the instructions
+#### 3. Install Gosu 
+  Run `gem install gosu` to install Gosu. Since there no other dependencies used in this program, installing bundler is not necessary
+#### 4. Installation Validation
+  To validate that ruby and gosu have ben installed, run `ruby -v` and `gem list gosu` to check for each tool respectively. In terms of MSYS2, if you can open the 64-bit command line then it's already installed successfully.
+#### 5. Run the program
+  To run the program, navigate to the directory where the music_player.rb file is located and run `ruby music_player.rb`
