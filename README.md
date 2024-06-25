@@ -8,11 +8,17 @@ The music player has a basic user interface with controls for playing music. It 
 
 ## How to run the program
 
-To run the program, you need to have Ruby and Gosu installed on your machine. If you don't have them installed, you can install them using the following commands:
+To run the program, you need to have Ruby and Gosu installed on your machine. If you don't have them installed, you can install them as follows:
 
-```bash
-# Install Ruby
-\curl -sSL https://get.rvm.io | bash -s stable --ruby
-
-# Install Gosu
-gem install gosu
+### Windows
+#### 1. Install Ruby
+  - Visit https://rubyinstaller.org/
+  - Download the latest version of the Ruby+Devkit installer (for example, Ruby+Devkit 3.x.x-x (x64)).
+  - Run the installer to install Ruby (Ensure "Add Ruby executables to your PATH" is checked)
+#### 2. Install MSYS2 and Development Toolchain:
+    - After the installation completes, ensure "Run 'ridk install' to set up MSYS2 and development toolchain" is checked and click Finish
+    - A command prompt will open. Press Enter to proceed with the default option (1: MSYS2 base installation).
+    - Follow the on-screen instructions to complete the MSYS2 installation.
+    - When prompted, press Enter to proceed with installing the required tools and components.
+#### 3. Verify installation
+  - To check the Ruby version, run `ruby -v`. This should display the Ruby version installed.
