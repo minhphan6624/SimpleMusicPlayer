@@ -27,24 +27,21 @@ To run the program, you need to have Ruby and Gosu installed on your machine. If
 ### MacOS
 ### MacOS
 #### 1. Install Homebrew
-    - Open Terminal
-    - Run the following command:
-        ```
-        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-        ```
+    Open the terminal and run the following command:
+    ```
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
 #### 2. Install Ruby
-    - In Terminal, run the following command:
-        ```
-        brew install ruby
-        ```
+    In the terminal, run the following command:
+    ```
+    brew install ruby
+    ```
 #### 3. Install Gosu
-    - In Terminal, run the following command:
-        ```
-        gem install gosu
-        ```
+    ```
+    gem install gosu
+    ```
 #### 4. Run the program
-    - Navigate to the directory where the `music_player.rb` file is located
-    - In Terminal, run the following command:
-        ```
-        ruby music_player.rb
-        ```
+    Navigate to the directory where the `music_player.rb` file is located and run the following command:
+    ```
+    ruby music_player.rb
+    ```
